@@ -4,18 +4,18 @@
       "id": 1,
       "name": "Mailer",
       "password": "abcde",
-      "identification": "12345"
+      "phoneNumber": "12345"
     },
     {
       "id": 2,
       "name": "Juan",
       "password": "abcde",
-      "identification": "123456"
+      "phoneNumber": "123456"
     },
     {
       "name": "Pedrito",
       "password": "abcde",
-      "identification": "123456",
+      "phoneNumber": "123456",
       "id": 3
     }
   ]
