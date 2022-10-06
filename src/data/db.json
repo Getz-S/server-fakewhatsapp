@@ -11,6 +11,12 @@
       "name": "Juan",
       "password": "abcde",
       "identification": "123456"
+    },
+    {
+      "name": "Pedrito",
+      "password": "abcde",
+      "identification": "123456",
+      "id": 3
     }
   ]
 }
