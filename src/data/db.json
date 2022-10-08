@@ -27,5 +27,144 @@
       "phrase": "Hey there! I am using Dovvy",
       "online": false
     }
+  ],
+  "messages": [
+    {
+      "idUser1": 2,
+      "idUser2": 1,
+      "conversation": [
+        {
+          "sendBy": 2,
+          "date": "23/10/2090",
+          "hour": "8:00pm",
+          "message": "hola",
+          "visto": true
+        },
+        {
+          "sendBy": 1,
+          "date": "23/10/2090",
+          "hour": "8:21pm",
+          "message": "hola",
+          "visto": true
+        },
+        {
+            "sendBy": 1,
+            "date": "23/10/2090",
+            "hour": "8:00pm",
+            "message": "comoe stas",
+            "visto": true
+          },
+          {
+            "sendBy": 2,
+            "date": "23/10/2090",
+            "hour": "8:21pm",
+            "message": "bien",
+            "visto": true
+          }
+      ]
+    },
+    {
+      "idUser1": 1,
+      "idUser2": 4,
+      "conversation": [
+        {
+          "sendBy": 1,
+          "date": "23/10/2090",
+          "hour": "8:00pm",
+          "message": "holaaaaaaaaa",
+          "visto": true
+        },
+        {
+          "sendBy": 4,
+          "date": "23/10/2090",
+          "hour": "8:21pm",
+          "message": "holaaaaaaaaasad",
+          "visto": true
+        },
+        {
+            "sendBy": 1,
+            "date": "23/10/2090",
+            "hour": "8:00pm",
+            "message": "comoe stas",
+            "visto": true
+          },
+          {
+            "sendBy": 4,
+            "date": "23/10/2090",
+            "hour": "8:21pm",
+            "message": "bien",
+            "visto": true
+          }
+      ]
+    },
+    {
+        "idUser1": 3,
+        "idUser2": 1,
+        "conversation": [
+          {
+            "sendBy": 3,
+            "date": "23/10/2090",
+            "hour": "8:00pm",
+            "message": "holaaa",
+            "visto": true
+          },
+          {
+            "sendBy": 1,
+            "date": "23/10/2090",
+            "hour": "8:21pm",
+            "message": "holaasa",
+            "visto": true
+          },
+          {
+            "sendBy": 1,
+            "date": "23/10/2090",
+            "hour": "8:00pm",
+            "message": "comoe stas",
+            "visto": true
+          },
+          {
+            "sendBy": 3,
+            "date": "23/10/2090",
+            "hour": "8:21pm",
+            "message": "bien",
+            "visto": true
+          }
+        ]
+      },
+      {
+        "idUser1": 3,
+        "idUser2": 2,
+        "conversation": [
+          {
+            "sendBy": 3,
+            "date": "23/10/2090",
+            "hour": "8:00pm",
+            "message": "holaaaaaaaaa",
+            "visto": true
+          },
+          {
+            "sendBy": 2,
+            "date": "23/10/2090",
+            "hour": "8:21pm",
+            "message": "holaaaaaa",
+            "visto": true
+          },
+          {
+            "sendBy": 3,
+            "date": "23/10/2090",
+            "hour": "8:00pm",
+            "message": "comoe stas",
+            "visto": true
+          },
+          {
+            "sendBy": 2,
+            "date": "23/10/2090",
+            "hour": "8:21pm",
+            "message": "bien",
+            "visto": true
+          }
+        ]
+      }
   ]
+
 }
