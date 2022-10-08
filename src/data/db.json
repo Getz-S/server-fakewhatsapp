@@ -4,19 +4,28 @@
       "id": 1,
       "name": "Mailer",
       "password": "abcde",
-      "phoneNumber": "12345"
+      "phoneNumber": "12345",
+      "profilePhoto": "https://cdn-icons-png.flaticon.com/512/1053/1053244.png?w=360",
+      "phrase": "Hey there! I am using Dovvy",
+      "online": false
     },
     {
       "id": 2,
       "name": "Juan",
       "password": "abcdef",
-      "phoneNumber": "123456"
+      "phoneNumber": "123456",
+      "profilePhoto": "https://cdn-icons-png.flaticon.com/512/1053/1053244.png?w=360",
+      "phrase": "Hey there! I am using Dovvy",
+      "online": false
     },
     {
       "name": "Pedrito",
       "password": "abcdefg",
       "phoneNumber": "1234567",
-      "id": 3
+      "id": 3,
+      "profilePhoto": "https://cdn-icons-png.flaticon.com/512/1053/1053244.png?w=360",
+      "phrase": "Hey there! I am using Dovvy",
+      "online": false
     }
   ]
 }
