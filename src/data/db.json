@@ -9,13 +9,13 @@
     {
       "id": 2,
       "name": "Juan",
-      "password": "abcde",
+      "password": "abcdef",
       "phoneNumber": "123456"
     },
     {
       "name": "Pedrito",
-      "password": "abcde",
-      "phoneNumber": "123456",
+      "password": "abcdefg",
+      "phoneNumber": "1234567",
       "id": 3
     }
   ]
