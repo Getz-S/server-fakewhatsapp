@@ -29,8 +29,8 @@
     },
     {
       "name": "Stella",
-      "password": "abcdefg",
-      "phoneNumber": "1234567",
+      "password": "abcdefgh",
+      "phoneNumber": "12345678",
       "id": 4,
       "profilePhoto": "https://cdn-icons-png.flaticon.com/512/1053/1053244.png?w=360",
       "phrase": "Hey there! I am using Dovvy",
