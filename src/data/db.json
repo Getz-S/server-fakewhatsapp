@@ -26,6 +26,15 @@
       "profilePhoto": "https://cdn-icons-png.flaticon.com/512/1053/1053244.png?w=360",
       "phrase": "Hey there! I am using Dovvy",
       "online": false
+    },
+    {
+      "name": "Stella",
+      "password": "abcdefg",
+      "phoneNumber": "1234567",
+      "id": 4,
+      "profilePhoto": "https://cdn-icons-png.flaticon.com/512/1053/1053244.png?w=360",
+      "phrase": "Hey there! I am using Dovvy",
+      "online": false
     }
   ],
   "messages": [
@@ -77,14 +86,14 @@
         {
           "sendBy": 4,
           "date": "23/10/2090",
-          "hour": "8:21pm",
+          "hour": "8:05pm",
           "message": "holaaaaaaaaasad",
           "visto": true
         },
         {
             "sendBy": 1,
             "date": "23/10/2090",
-            "hour": "8:00pm",
+            "hour": "8:25pm",
             "message": "comoe stas",
             "visto": true
           },
