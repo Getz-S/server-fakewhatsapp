@@ -4,7 +4,9 @@ const router = jsonServer.router(`${__dirname}/data/db.json`);
 const middlewares = jsonServer.defaults();
 const cors = require('cors')
 
-server.use(cors());
+server.use(cors({
+    origin: "http://127.0.0.1:5500/pages/home.html"
+}));
 
 const port = process.env.PORT || 3000;
 
